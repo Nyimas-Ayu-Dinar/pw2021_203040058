@@ -1,4 +1,10 @@
 <?php
+/*
+	Nyimas Ayu Dinar
+	203040058
+	github.com/Nyimas Ayu Dinar/pw2021_203040055
+	jumat 10-11
+*/
 $nama = [
     "Cristiano Ronaldo" => "Juventus",
     "Lionel Messi" => "Barcelona",
